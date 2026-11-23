@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Open-OmniCoach/omnicoach/main/assets/logo.png" alt="Open-OmniCoach Logo" width="128"/>
+
 # Open-OmniCoach
 
 **Evidence-Enhanced Trajectory Learning for Omni Video Agents**
@@ -19,8 +21,8 @@
 
 | Repository | Description |
 | --- | --- |
-| [**Open-OmniCoach/omnicoach**](https://github.com/Open-OmniCoach/omnicoach) | Main repository: single-video inference CLI, trace-collection harness (`harness/`), multi-turn Agent SFT (`sft/`), and Qwen3-Omni RL + SEPO on `THUDM/slime` (`rl/`). |
-| [**Open-OmniCoach/video-agent-evalkit**](https://github.com/Open-OmniCoach/video-agent-evalkit) | Unified multimodal & video agent benchmark evaluation toolkit (`evalkit/` submodule). |
+| [**Open-OmniCoach/omnicoach**](https://github.com/Open-OmniCoach/omnicoach) | Main repository: offline trace-collection harness (`harness/`), multi-turn Agent SFT (`sft/`), Qwen3-Omni RL with Turn-Level GSPO on `THUDM/slime` (`rl/`), and evaluation submodule (`evalkit/`). |
+| [**Open-OmniCoach/video-agent-evalkit**](https://github.com/Open-OmniCoach/video-agent-evalkit) | Unified multimodal & video agent benchmark evaluation toolkit (`evalkit/` submodule, [`omnicoach`](https://github.com/Open-OmniCoach/video-agent-evalkit/tree/omnicoach) integration branch). |
 | [**Open-OmniCoach/open-omnicoach.github.io**](https://github.com/Open-OmniCoach/open-omnicoach.github.io) | Interactive project page and trajectory explorer. |
 
 ### Hugging Face Artifacts
