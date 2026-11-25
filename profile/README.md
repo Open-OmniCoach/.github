@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://github.com/Open-OmniCoach/omnicoach/stargazers"><img src="https://img.shields.io/github/stars/Open-OmniCoach/omnicoach?style=social" alt="GitHub Stars"></a>
+  <a href="https://arxiv.org/abs/2611.31891"><img src="https://img.shields.io/badge/arXiv-2611.31891-B31B1B?logo=arxiv&logoColor=white" alt="arXiv:2611.31891"></a>
   <a href="https://github.com/Open-OmniCoach/omnicoach"><img src="https://img.shields.io/badge/GitHub-omnicoach-181717?logo=github" alt="Code"></a>
   <a href="https://github.com/Open-OmniCoach/video-agent-evalkit"><img src="https://img.shields.io/badge/Eval-video--agent--evalkit-0F766E" alt="EvalKit"></a>
   <a href="https://huggingface.co/collections/Open-OmniCoach/open-omnicoach-6b02b581ecac90284c6009d9"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Open--OmniCoach-FFD21E" alt="HF Collection"></a>
